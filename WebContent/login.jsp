@@ -25,7 +25,7 @@
             <div class="col">
 
                 <div>
-                    <form>
+                    <form action="index.jsp" >
                         <div class="row">
                             <div class="col-6">
                             </div>
