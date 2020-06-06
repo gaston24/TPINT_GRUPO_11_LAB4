@@ -25,7 +25,7 @@
         Cursos
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="#">Alta</a>
+        <a class="dropdown-item" href="#" onClick="window.location='cursos/alta_curso.jsp'">Alta</a>
         <a class="dropdown-item" href="#">Baja</a>
         <a class="dropdown-item" href="#">Modificacion</a>
       </div>
@@ -36,7 +36,7 @@
         Docentes
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="#">Alta</a>
+        <a class="dropdown-item" href="#" onClick="window.location='docentes/alta_docente.jsp'">Alta</a>
         <a class="dropdown-item" href="#">Baja</a>
         <a class="dropdown-item" href="#">Modificacion</a>
       </div>
@@ -47,7 +47,7 @@
         Alumnos
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="#">Alta</a>
+        <a class="dropdown-item" href="#" onClick="window.location='alumnos/alta_alumno.jsp'">Alta</a>
         <a class="dropdown-item" href="#">Baja</a>
         <a class="dropdown-item" href="#">Modificacion</a>
       </div>
@@ -58,7 +58,7 @@
         Materias
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="#">Alta</a>
+        <a class="dropdown-item" href="#" onClick="window.location='materias/alta_materia.jsp'">Alta</a>
         <a class="dropdown-item" href="#">Baja</a>
         <a class="dropdown-item" href="#">Modificacion</a>
       </div>
